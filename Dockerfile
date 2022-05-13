@@ -21,7 +21,7 @@
 #
 #    docker exec -it catalyst catalyst run -f /projects/my_algo.py --start 2015-1-1 --end 2016-1-1 /projects/result.pickle
 #
-FROM python:3.6
+FROM python:3.9.12
 
 #
 # set up environment
