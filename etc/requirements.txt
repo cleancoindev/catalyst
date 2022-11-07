@@ -62,9 +62,9 @@ multipledispatch==0.4.9
 
 # for alembic
 MarkupSafe==1.0
-Mako==1.0.7
+Mako==1.2.2
 # Asset writer and finder
-sqlalchemy==1.2.2
+sqlalchemy==1.2.18
 # For asset db management
 alembic==0.9.7
 
